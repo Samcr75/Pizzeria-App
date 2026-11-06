@@ -170,7 +170,7 @@ The main objective of this project is to demonstrate practical implementation of
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Sambit Kumar**
 
 ## 📄 License
 
